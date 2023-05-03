@@ -2,7 +2,7 @@
 
 This repository contains MATLAB code files for Semester 3 and 4 of Bachelor of Technology (B.Tech) in Computer Science Engineering (CSE) at Thapar Institute of Engineering and Technology, Patiala, Punjab, India.
 
-The code files cover various topics taught in the two semesters, including:
+The code files cover various topics taught in the 4th semester, including:
 - Optimization Techniques
 
 ## Prerequisites
